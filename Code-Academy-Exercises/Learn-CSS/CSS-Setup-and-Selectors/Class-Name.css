@@ -1,0 +1,10 @@
+/* I learned that can refer to a class attribute by coding a dot followed by the value of the class attribute of an element*/
+p {
+    font-family: Arial;
+  }
+h1{
+color: maroon;
+}
+.title{
+color:teal;
+}
