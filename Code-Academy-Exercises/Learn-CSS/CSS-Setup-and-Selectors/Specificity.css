@@ -1,0 +1,27 @@
+/* I learned that there is a specific order in which browser interprets the styles in CSS
+starting with ID which is most specific, followed by the class and then the tag */
+p {
+  font-family: Arial;
+}
+
+h1 {
+  color: maroon;
+}
+
+.title {
+  color: teal;
+}
+
+.uppercase {
+  text-transform: uppercase;
+}
+
+.publish-time{
+  color:gray;
+}
+.cursive{
+  font-family: cursive;
+}
+.capitalize{
+  text-transform: capitalize;
+}
