@@ -1,0 +1,36 @@
+/* the !important added to the attributes will make it more important that other selectors
+but because it is hard to override it is recommended not to use it*/
+p {
+  font-family: Arial;
+}
+
+h1 {
+  color: maroon;
+}
+
+.title {
+  color: teal;
+}
+
+.uppercase {
+  text-transform: uppercase;
+}
+
+.publish-time{
+  color:gray;
+}
+.cursive{
+  font-family: cursive;
+}
+.capitalize{
+  text-transform: capitalize;
+}
+h2.destination{
+  font-family: cursive;
+}
+.description h5{
+  color: teal;
+}
+h5{
+  color:rebeccapurple !important;
+}
