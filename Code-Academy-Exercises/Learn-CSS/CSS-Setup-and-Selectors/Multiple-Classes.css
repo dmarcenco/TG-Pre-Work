@@ -1,0 +1,13 @@
+/*I learned that I can give multiple class name to an element(separating them by space) in order to combine styles for the same element */
+p {
+     font-family: Arial;
+   }
+h1{
+ color: maroon;
+}
+.title{
+ color:teal;
+}
+.uppercase{
+ text-transform:uppercase;
+}
