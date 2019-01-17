@@ -1,0 +1,30 @@
+/* I learned that using the tag of an element followed by a dot and the name of the class attribute
+ will select only the specified element with the specified class  */
+p {
+  font-family: Arial;
+}
+
+h1 {
+  color: maroon;
+}
+
+.title {
+  color: teal;
+}
+
+.uppercase {
+  text-transform: uppercase;
+}
+
+.publish-time{
+  color:gray;
+}
+.cursive{
+  font-family: cursive;
+}
+.capitalize{
+  text-transform: capitalize;
+}
+h2.destination{
+  font-family: cursive;
+}
