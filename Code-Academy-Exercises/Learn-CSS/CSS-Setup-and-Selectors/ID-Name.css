@@ -1,0 +1,17 @@
+/* I learned that I can also select an element by its id name by coding a hashtag followed by the name of the id attribute */
+p {
+     font-family: Arial;
+   }
+h1{
+ color: maroon;
+}
+.title{
+ color:teal;
+}
+.uppercase{
+ text-transform:uppercase;
+}
+#article-title{
+ font-family: cursive;
+ text-transform: capitalize;
+}
