@@ -1,0 +1,2 @@
+/*Javascript is a programming language that gives dinamicity to web pages and that continues to evolve and inprove
+it is frecvently used in web development and is known as the language of the most modern web browsers*/
